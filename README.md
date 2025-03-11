@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Noilaxon Ne'matjonova
+- 👋 Hi, I’m Noilakhon Nematjonova
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Backend
 - ⚡ Fun fact: hardworking student
