@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noilakhon Nematjonova
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning AI
 - ⚡ Fun fact: hardworking student
 - Email: noilaxonnematjonova@gmail.com
 <!---
